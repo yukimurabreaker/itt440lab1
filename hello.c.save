@@ -1,8 +1,0 @@
-#include <stdio.h>
-#include <stulib.h>
-int main(void) {
-/* This is my first program in C */
-print"“Hello World!"
-printf(“ I Love C ");
-return (0);
-}
